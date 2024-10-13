@@ -1,0 +1,22 @@
+.breadcrumb {
+    background-color: #f8f9fa;
+    height: 3rem;
+    color: black;
+    font-family: Tahoma, sans-serif;
+    padding: 10px;
+    font-size: 14px;
+  }
+  
+  .title {
+    background-color: #29baba;
+    height: 7.5rem;
+  }
+  img {
+    height: 120px;
+    position: absolute;
+    top: 8rem;
+    left: 10rem;
+    width: 120px;
+    height: 120px;
+    
+  }

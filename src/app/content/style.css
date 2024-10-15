@@ -1,0 +1,22 @@
+.content {
+    position: absolute;
+    top: 16rem;
+    left: 10rem;
+    right: 15rem;
+    color: black;
+}
+
+.title-name {
+    font-size: 40px;
+    font-weight: bold;
+    font-family: 'Noto Sans', sans-serif;
+    color: #0d4850;
+
+}
+h2 {
+    color: #e83798;
+    padding: 3px 2px;
+    font-size: 25px;
+    font-weight: bold;
+    font-family:  'Helvetica', sans-serif
+}

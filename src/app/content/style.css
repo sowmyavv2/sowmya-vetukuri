@@ -1,8 +1,5 @@
 .content {
-    position: absolute;
-    top: 16rem;
-    left: 10rem;
-    right: 15rem;
+    padding: 140px 150px 50px 150px;
     color: black;
 }
 

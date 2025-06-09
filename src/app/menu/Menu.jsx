@@ -7,7 +7,6 @@ const Menu = () => {
   return (
     <div className='menu'>
       {menuItems.map((x, index) => {
-        debugger; // This will pause execution when the DevTools are open
         return (
           <div className="list" key={index}>          <a href="#" className='menu-link'>
 {x}</a>

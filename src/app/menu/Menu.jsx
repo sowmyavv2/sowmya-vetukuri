@@ -1,7 +1,7 @@
 import React from 'react'; // Make sure to import React
 import './style.css';
 
-let menuItems = ["Recent Experience", "Projects", "Work"];
+let menuItems = ["Recent Experience", "Projects", "Work", "Awards"];
 
 const Menu = () => {
   return (
